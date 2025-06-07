@@ -30,7 +30,7 @@ This is a Spring Boot-based Journal App that allows users to manage their journa
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lakshya-hidau/Journal-App
    cd journal-app
 
 
