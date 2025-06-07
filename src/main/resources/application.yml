@@ -5,18 +5,17 @@ spring:
       port: 27017
       database: journaldb
       auto-index-creation: true
-#      uri: mongodb+srv://lakshyahidau2005:lakshyahidau2005@cluster0.5idrq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
   redis:
-    host: redis-15362.c301.ap-south-1-1.ec2.redns.redis-cloud.com:15362
+    host: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     port: 15362
-    password: 7S2J3lgtNZEuQS72mib8MqSXFD25HzFa
+    password: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
   mail:
-    host: smtp.gmail.com
+    host: XXXXXXXXX
     port: 587
-    username: iitjeepreparation03@gmail.com
-    password: java mail
+    username: XXXXXXXXXXXXXXXX@gmail.com
+    password: XXXXXX
     properties:
       mail:
         smtp:
@@ -29,8 +28,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 778814146199-ampjd3f0r9rhqdluo8iknbnfa5veqsip.apps.googleusercontent.com
-            client-secret: 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
+            client-id: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+            client-secret: XXXXXXXXXXXXXXXXXXXXX
 
 
 weather:
